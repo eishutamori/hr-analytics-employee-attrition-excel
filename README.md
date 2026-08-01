@@ -193,9 +193,11 @@ The project report provides an overview of the project, objectives, methodology,
 
 Location:
 
-```text
-analysis/HR_Analytics_Analysis_Report.pdf
-```
+## Dashboard Preview
+
+<p align="center">
+  <img src="dashboard/Dashboard.png" alt="HR Analytics Employee Attrition Dashboard" width="1000"/>
+</p>
 
 The analysis report contains detailed solutions for all 20 business questions, including analysis, insights, and recommendations generated during the project.
 
